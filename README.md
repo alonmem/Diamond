@@ -11,6 +11,6 @@ kivy (for GUI)
 python -m pip install kivy
 ```
 
-## Running the tests
+## Starting the game
 
-Clone repository and run Graphics.py
+run Graphics.py
